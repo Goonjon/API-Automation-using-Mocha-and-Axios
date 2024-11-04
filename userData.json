@@ -1,0 +1,90 @@
+[
+  {
+    "id": 26195,
+    "name": "Axios user Leonard",
+    "email": "Lionel.Johns77@yahoo.com",
+    "password": "1234",
+    "phone_number": "01502197282",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-04T12:25:18.069Z",
+    "createdAt": "2024-11-04T12:25:18.069Z"
+  },
+  {
+    "id": 26196,
+    "name": "Customer Ibrahim",
+    "email": "Olaf.Senger14@gmail.com",
+    "password": "1234",
+    "phone_number": "01803355094",
+    "nid": "987654321",
+    "role": "Customer",
+    "updatedAt": "2024-11-04T12:25:18.129Z",
+    "createdAt": "2024-11-04T12:25:18.129Z"
+  },
+  {
+    "id": 26197,
+    "name": "Agent Keara",
+    "email": "June.Kemmer@gmail.com",
+    "password": "1234",
+    "phone_number": "01904186563",
+    "nid": "192837465",
+    "role": "Agent",
+    "updatedAt": "2024-11-04T12:25:18.191Z",
+    "createdAt": "2024-11-04T12:25:18.191Z"
+  },
+  {
+    "id": 26198,
+    "name": "Merchant Eloise",
+    "email": "Danial57@gmail.com",
+    "password": "1234",
+    "phone_number": "01700210939",
+    "nid": "987654321",
+    "role": "Merchant",
+    "updatedAt": "2024-11-04T12:25:18.251Z",
+    "createdAt": "2024-11-04T12:25:18.251Z"
+  },
+  {
+    "id": 26199,
+    "name": "Axios user Rico",
+    "email": "Amaya68@yahoo.com",
+    "password": "1234",
+    "phone_number": "01502976052",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-04T12:38:41.080Z",
+    "createdAt": "2024-11-04T12:38:41.080Z"
+  },
+  {
+    "id": 26200,
+    "name": "Customer Kasandra",
+    "email": "Jeanette59@yahoo.com",
+    "password": "1234",
+    "phone_number": "01803394578",
+    "nid": "987654321",
+    "role": "Customer",
+    "updatedAt": "2024-11-04T12:38:41.165Z",
+    "createdAt": "2024-11-04T12:38:41.165Z"
+  },
+  {
+    "id": 26201,
+    "name": "Agent Sherman",
+    "email": "Daniella36@gmail.com",
+    "password": "1234",
+    "phone_number": "01904638094",
+    "nid": "192837465",
+    "role": "Agent",
+    "updatedAt": "2024-11-04T12:38:41.225Z",
+    "createdAt": "2024-11-04T12:38:41.225Z"
+  },
+  {
+    "id": 26202,
+    "name": "Merchant Alivia",
+    "email": "Zola.Nicolas84@hotmail.com",
+    "password": "1234",
+    "phone_number": "01700424639",
+    "nid": "987654321",
+    "role": "Merchant",
+    "updatedAt": "2024-11-04T12:38:41.281Z",
+    "createdAt": "2024-11-04T12:38:41.281Z"
+  }
+]
