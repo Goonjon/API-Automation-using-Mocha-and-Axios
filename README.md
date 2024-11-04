@@ -29,7 +29,8 @@
                                        
 
 ### Mochawesome Report View:
-<img width="947" alt="Screenshot 2024-11-04 214337" src="https://github.com/user-attachments/assets/f6804189-54f0-44ff-b64f-494df68f5b51">
+<img width="947" alt="Screenshot 2024-11-04 220149" src="https://github.com/user-attachments/assets/f2d69952-6a6a-44f4-8f7b-4e96660e5669">
+
 
 
 
