@@ -8,7 +8,8 @@ import generateRandomId from './Utils.js'
 import jsonData from './userData.json' assert { type: 'json' };
 import fs from 'fs'
 
-describe("User Login", async ()=>{
+describe("Dmoney API Automation", async ()=>{
+ 
  it("User login with valid creds", async ()=>{
     const {data} = await axios.post(`${process.env.base_url}/user/login`, {
         "email": "admin@roadtocareer.net",
